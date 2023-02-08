@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Crazy EX/1.0.0": {
+        "dependencies": {
+          "FCTB": "2.16.24",
+          "ILMerge.Tools": "2.14.1208",
+          "WeAreDevs_API": "1.0.0.0"
+        },
+        "runtime": {
+          "Crazy EX.dll": {}
+        }
+      },
+      "FCTB/2.16.24": {
+        "runtime": {
+          "lib/FastColoredTextBox.dll": {
+            "assemblyVersion": "2.16.24.0",
+            "fileVersion": "2.16.24.0"
+          }
+        }
+      },
+      "ILMerge.Tools/2.14.1208": {},
+      "WeAreDevs_API/1.0.0.0": {
+        "runtime": {
+          "WeAreDevs_API.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Crazy EX/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FCTB/2.16.24": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7E+vfTh4kV4Cz9hkHehgbmJQh03EdaMWyjY3T9YA4snqI7Bi11zlAvJgyO5HNdkL+Znzas8yyYE9vuF+izxWQw==",
+      "path": "fctb/2.16.24",
+      "hashPath": "fctb.2.16.24.nupkg.sha512"
+    },
+    "ILMerge.Tools/2.14.1208": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JpqBPaONTUs1NWRT/clCzui2AGYxwEJWePSP8JgGCCTmCNT9cheQlJtmrLXA+FiEm2ssa360SZnbHkNZevEoDw==",
+      "path": "ilmerge.tools/2.14.1208",
+      "hashPath": "ilmerge.tools.2.14.1208.nupkg.sha512"
+    },
+    "WeAreDevs_API/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
